@@ -24,4 +24,6 @@ Escape as a **D-class** or be a guard to protect the facility or even nuke and d
 ---
 
 ## Mechanics
-- Mechanics are a part of the game that difference about
+ *Mechanics are a part of our game that differentiates us from other experiences, these are the mechanics:*
+ - Roleplay as different Roles
+ 
