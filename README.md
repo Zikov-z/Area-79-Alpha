@@ -26,20 +26,38 @@ Escape as a **D-class** or be a guard to protect the facility or even nuke and d
 ## Mechanics
  *Mechanics are a part of our game that differentiates us from other experiences, these are the mechanics:*
    - Roleplay as different Roles
+     
       1 - Chaos Insurgency
+     
       2 - Class-D
+     
       3 - Janitoral Agency
+     
       4 - Maintenance
+     
       5 - Mobile Task Force
+     
       6 - O5 Council
+     
       7 - Researcher
+     
       8 - SCP
+     
       9 - Security Department
+     
    - Gain XP and upgrade your Clearance
+     
      1 - Clearance 0
+     
      2 - Clearance 1
+     
      3 - Clearance 2
+     
      4 - Clearance 3
+     
      5 - Clearance 4
+     
      6 - Clearance 5
- 
+   - Unlock more Roles!
+     Unlocking more roles permit you
+     being access to more teams!
