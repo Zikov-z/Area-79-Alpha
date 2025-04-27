@@ -59,5 +59,5 @@ Escape as a **D-class** or be a guard to protect the facility or even nuke and d
      
      6 - Clearance 5
    - Unlock more Roles!
-     Unlocking more roles permit you
-     being access to more teams!
+     Unlocking more roles grants you
+     access to more teams!
